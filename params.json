@@ -1,0 +1,10 @@
+{
+  "exec":{
+    "learning_rate": 1e-3,
+    "num_epochs": 10,
+    "batch_size":400,
+    "capacity": 64,
+    "n_f": 30,
+    "n_d": 50
+    }
+}
