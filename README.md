@@ -8,9 +8,9 @@ The explaination of the files are as follows
 | File           | Description                                   |
 | ---------      | --------------------------------------------- |
 | main.py        | The model is trained and saved here           |
-| src            | model architecture is implemented here        |
-| data_builder   | creates .npy data                             |
-| plot_pred      | plots prediction graph                        |
+| src.py            | model architecture is implemented here        |
+| data_builder.py   | creates .npy data                             |
+| plot_pred.py      | plots prediction graph                        |
 | param.json      | json file that stores hyper parameters                      |
 
 ## Dependencies
