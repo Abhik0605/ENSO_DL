@@ -58,10 +58,10 @@ python main.py --load_model 'True'
 ## Results
 
 The loss graph
-![result](out/loss.png)
+![result](./loss.png)
 
 The predictions
-![result](out/pred.png)
+![result](./pred.png)
 
 ## Acknowledgements
 
