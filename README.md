@@ -19,6 +19,7 @@ The explaination of the files are as follows
 - tensorflow
 - matplotlib
 - numpy
+- netCDF4
 
 
 ### Native
