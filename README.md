@@ -57,10 +57,12 @@ python main.py --load_model 'True'
 |n_d              | number of dense layers at the end                |
 ## Results
 
-The loss graph
+### The loss graph
+
 ![result](./loss.png)
 
-The predictions
+### The predictions
+
 ![result](./pred.png)
 
 ## Acknowledgements
