@@ -131,3 +131,7 @@ dmypy.json
 
 data/A_CNN_dataset
 data/*.npy
+
+out/
+
+*.png
